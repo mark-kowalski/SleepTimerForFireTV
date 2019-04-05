@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SleepTimer For FireTV</string>
+    <string name="browse_title">SleepTimer for Fire TV Stick</string>
+    <string name="info">Zu der hier eingestellten Zeit kommt noch die eingestellte Zeit für den Bildschirmschöner und 20 min bis der Stick in den Standby wechselt dazu!</string>
+    <string name="timer_set">Timer gesetzt auf</string>
+</resources>
